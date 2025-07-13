@@ -1,0 +1,7 @@
+chat-app/
+│
+├── app.py               # Flask backend
+├── templates/
+│   └── index.html       # Frontend HTML page
+└── static/
+    └── style.css        # (Optional) CSS for styling
